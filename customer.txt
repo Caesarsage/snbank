@@ -1,0 +1,4 @@
+Julius,1000,Savings,girl@yahoo.com,1984644388
+joy,200,savings,joy@yahoo.com,1390183743
+w,20,w,w,1130868254
+e,e,e,e,1242649141
